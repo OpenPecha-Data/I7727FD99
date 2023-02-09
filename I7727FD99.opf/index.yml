@@ -1,0 +1,11 @@
+id: aa2e566156b244c0b4b689687ff7fabf
+annotation_type: index
+revision: '00001'
+annotations:
+  649873bd39764b0caf283ec55b906723:
+    base: DD41.txt
+    Chapters:
+    - title: Prātimokṣasūtra
+      span:
+        start: 0
+        end: 53938
